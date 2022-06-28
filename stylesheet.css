@@ -1,0 +1,18 @@
+.lesson {
+    background-color: rgb(218, 144, 218);
+}
+
+#redAndWhite {
+    color: white;
+    background-color: red;
+}
+
+#goldAndWhite {
+    color: white;
+    background-color: gold;
+}
+
+#blackAndWhite {
+    color: white;
+    background-color: black;
+}
